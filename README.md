@@ -8,7 +8,7 @@ I'm not a traditional software engineer, by design: I scope the problem, direct 
 
 **[Socratic STEM Tutor](https://github.com/andrewesk/socratic-stem-tutor)** — an AI tutor built for the students I tutor in the MESA program, engineered to guide with questions rather than give answers. Includes an adversarial evaluation harness (a second Claude judges every reply) verifying the guardrail holds under prompt-injection and roleplay attempts, plus offline tests, CI, and a hand-off guide a non-technical educator can run it from.
 
-**[Sports Analytics Research Platform](https://github.com/andrewesk/sports-analytics-research)** — a 200-commit research system that captures live tennis data and tests a win-probability model against real match outcomes. Read-only by design. Its real subject is evaluation: a calibration audit of 37,000+ predictions caught an "improvement" that only worked on data it had already seen — and the commit history documents every promising idea I tested and rejected.
+**[Sports Analytics Research Platform](https://github.com/andrewesk/sports-analytics-research)** — a research system (380+ commits) that captures live tennis data and tests a win-probability model against real match outcomes. Read-only by design. Its real subject is evaluation: a calibration audit of 37,000+ predictions caught an "improvement" that only worked on data it had already seen — and the commit history documents every promising idea I tested and rejected.
 
 ## How I work
 
