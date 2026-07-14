@@ -1,48 +1,23 @@
-# Hi, I'm Andrew 👋
+# Andrew Eskandari
 
-## UCLA Psychobiology Student | AI Builder | Community Problem Solver
+**UCLA psychobiology student, by way of Glendale Community College. I build practical, evaluated AI tools by directing Claude and Claude Code — and I've spent years teaching and serving in my community.**
 
-I'm passionate about using AI to solve real-world problems across healthcare, education, nonprofits, and other mission-driven organizations.
+I'm not a traditional software engineer, by design: I scope the problem, direct the AI, evaluate the output, and document the result so someone else can own it. Over the past year that's meant directing large AI-assisted projects end to end — and learning that the hard part isn't generating work, it's knowing when to trust it.
 
-Over the past year I've been building AI-assisted systems with Claude and Claude Code, learning how to evaluate AI-generated work, improve workflows through experimentation, and translate ideas into practical tools.
+## Projects
 
-I enjoy tackling unfamiliar problems, working across disciplines, and helping organizations adopt AI in ways that create real value.
+**[Socratic STEM Tutor](https://github.com/andrewesk/socratic-stem-tutor)** — an AI tutor built for the students I tutor in the MESA program, engineered to guide with questions rather than give answers. Includes an adversarial evaluation harness (a second Claude judges every reply) verifying the guardrail holds under prompt-injection and roleplay attempts, plus offline tests, CI, and a hand-off guide a non-technical educator can run it from.
 
----
+**[Sports Analytics Research Platform](https://github.com/andrewesk/sports-analytics-research)** — a 200-commit research system that captures live tennis data and tests a win-probability model against real match outcomes. Read-only by design. Its real subject is evaluation: a calibration audit of 37,000+ predictions caught an "improvement" that only worked on data it had already seen — and the commit history documents every promising idea I tested and rejected.
 
-## Current Interests
+## How I work
 
-🤖 Artificial Intelligence
+Nothing I build ships until it survives evaluation on cases it hasn't seen. Documentation and the hand-off guide are part of the project, not an afterthought.
 
-🏥 Healthcare Innovation
+> The most valuable AI systems combine powerful models with thoughtful human judgment.
 
-📚 Education
+## Background
 
-🌎 Mission-Driven Organizations
+Organic chemistry tutor (MESA) · community health intern · youth basketball coach · assistant scoutmaster · clinical experience in dentistry (USC Dental Explorers; clinical observer, USC Division of Dental Anesthesiology). English, Armenian, and Farsi.
 
-🚀 Entrepreneurship
-
----
-
-## Experience
-
-- UCLA Psychobiology Student
-- Organic Chemistry Tutor (MESA)
-- Community Health Intern
-- Clinical Observer – USC Dental Anesthesiology
-- Dental Laboratory Technician
-- Dental Assistant
-
----
-
-## What I'm Currently Learning
-
-- AI implementation
-- Workflow automation
-- Responsible AI adoption
-- Building practical AI systems
-- Human-AI collaboration
-
----
-
-> "The most valuable AI systems combine powerful models with thoughtful human judgment."
+**Contact:** andreweskandari@ucla.edu · [Portfolio](https://andrewesk.github.io/portfolio/)
